@@ -51,16 +51,6 @@ Here are some ideas to get you started:
                     </div>
                 </div>
                  -->
-
-                <div class="pinned-item-list-item-content">
-                    <p class="mb-0 f6 color-text-secondary">
-                        <a href="https://vasetosoft.github.io" class="pinned-item-meta Link--muted">
-                            <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D19468"
-                                align="right" style="width: 50%;">
-                         </a>
-                    </p> 
-                </div>
-                
             </article>
         </div>
     </div>
