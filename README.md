@@ -20,10 +20,10 @@ Here are some ideas to get you started:
             <article class="markdown-body entry-content container-lg f5" itemprop="text">
                 <div class="pinned-item-list-item-content">
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
-                        I’m currently working on several different projects.
+                        Modern problems, legacy solutions.
                     </p>
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
-                        And learning amazing new front-end frameworks.
+                        Learning new front-end frameworks faster than I forget the old ones.
                     </p>
                     <!-- 
                     <p class="mb-0 f6 color-text-secondary">
