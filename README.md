@@ -23,7 +23,7 @@ Here are some ideas to get you started:
                         Modern problems, legacy solutions.
                     </p>
                     <p class="pinned-item-desc color-text-secondary text-small d-block mt-2 mb-3">
-                        Learning new front-end frameworks faster than I forget the old ones.
+                        Full-stack? More like half-stack and full of caffeine.
                     </p>
                     <!-- 
                     <p class="mb-0 f6 color-text-secondary">
